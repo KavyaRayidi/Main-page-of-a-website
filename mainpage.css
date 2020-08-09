@@ -76,7 +76,7 @@ button{
   margin-left: 250px;
   margin-top: 20px;
   margin-bottom: 20px;
-  padding: 20px;
+  padding: 30px;
   color: black;
   background-color: #CCC7ED;
   height: 250px;
@@ -88,7 +88,7 @@ button{
   margin-left: 250px;
   margin-top: 20px;
   margin-bottom: 20px;
-  padding: 20px;
+  padding: 30px;
   color: black;
   background-color: #CCC7ED;
   height: 250px;
@@ -96,7 +96,26 @@ button{
 
 }
 
+.image-div2 {
+  position: exact;
+  float: right;
+  width: 400px;
+  height: 220px;
+  top: 90px;
+  background-position: 60% 60%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 
+.image-div1 {
+  position: relative;
+  float: right;
+  width: 400px;
+  height: 220px;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 
 
 

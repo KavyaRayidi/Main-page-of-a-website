@@ -1,0 +1,113 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+ul li{
+  list-style: none;
+  display: block;
+  line-height: 70px;
+  padding-top: 10px;
+}
+
+ul li a{
+  text-decoration: none;
+  font-family: sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  display: block;
+  padding-left: 20px;
+  color: blue;
+}
+
+nav{
+  width: 200px;
+  height: 800px;
+  background-color: #ddd;
+  display: block;
+  /*position: fixed;*/
+}
+
+ul li a:hover{
+  background-color: white;
+  color: red;
+}
+
+.button{
+  background-color: #EAEDDF;
+  text-align: center;
+  padding: 30px;
+  float: right;
+}
+
+.logo{
+  float: left;
+  padding: 50px;
+  text-align: center;
+  background-color: #EAEDDF;
+  width: 100px;
+
+}
+
+.picture{
+  background-color: #ddd;
+  height: 130px;
+  width: 1538px;
+  text-align: center;
+
+}
+
+img{
+  width: 1000px;
+  height: 120px;
+}
+
+button{
+  padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: white;
+  background-color: blue;
+}
+
+.box1{
+  margin-left: 250px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 20px;
+  color: black;
+  background-color: #CCC7ED;
+  height: 250px;
+  width: 1000px;
+
+}
+
+.box2{
+  margin-left: 250px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 20px;
+  color: black;
+  background-color: #CCC7ED;
+  height: 250px;
+  width: 1000px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
